@@ -1,0 +1,11 @@
+C:\Tyler\Personnel.Data\bin\Debug\Personnel.Data.dll.config
+C:\Tyler\Personnel.Data\bin\Debug\Personnel.Data.dll
+C:\Tyler\Personnel.Data\bin\Debug\Personnel.Data.pdb
+C:\Tyler\Personnel.Data\bin\Debug\EntityFramework.dll
+C:\Tyler\Personnel.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Tyler\Personnel.Data\bin\Debug\EntityFramework.xml
+C:\Tyler\Personnel.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Tyler\Personnel.Data\obj\Debug\Personnel.Data.csproj.CoreCompileInputs.cache
+C:\Tyler\Personnel.Data\obj\Debug\Personnel.Data.csproj.CopyComplete
+C:\Tyler\Personnel.Data\obj\Debug\Personnel.Data.dll
+C:\Tyler\Personnel.Data\obj\Debug\Personnel.Data.pdb

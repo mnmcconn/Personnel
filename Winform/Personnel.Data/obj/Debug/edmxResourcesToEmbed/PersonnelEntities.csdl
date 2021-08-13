@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PersonnelModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="PersonnelEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Employees" EntityType="PersonnelModel.Employee" />
+    <EntitySet Name="Roles" EntityType="PersonnelModel.Role" />
+    <AssociationSet Name="EmployeeRole" Association="PersonnelModel.EmployeeRole">
+      <End Role="Employee" EntitySet="Employees" />
+      <End Role="Role" EntitySet="Roles" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="EmployeeID" />
+    </Key>
+    <Property Name="EmployeeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ManagerID" Type="Int32" />
+    <Property Name="EmployeeCode" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Roles" Relationship="PersonnelModel.EmployeeRole" FromRole="Employee" ToRole="Role" />
+  </EntityType>
+  <EntityType Name="Role">
+    <Key>
+      <PropertyRef Name="RoleID" />
+    </Key>
+    <Property Name="RoleID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Description" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Employees" Relationship="PersonnelModel.EmployeeRole" FromRole="Role" ToRole="Employee" />
+  </EntityType>
+  <Association Name="EmployeeRole">
+    <End Type="PersonnelModel.Employee" Role="Employee" Multiplicity="*" />
+    <End Type="PersonnelModel.Role" Role="Role" Multiplicity="*" />
+  </Association>
+</Schema>
