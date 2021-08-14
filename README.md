@@ -1,4 +1,6 @@
 # Personnel
 Personnel Projects
 
-This repo contains a Personnel application for S-Squared Enterprises.  Please contact the developer for the DB password.
+While only one type (windows or web) is required, both have been created.   Compressed files of all source code is available in the zip folder.
+
+Also, the web version has been deployed here:  www.justiceit.com
