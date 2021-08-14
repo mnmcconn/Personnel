@@ -1,0 +1,2 @@
+C:\Users\Mitchel\Documents\GitHub\Personnel\Web\Personnel\obj\Debug\Personnel.njsproj.CoreCompileInputs.cache
+C:\Users\Mitchel\Documents\GitHub\Personnel\Web\Personnel\bin\Microsoft.NodejsTools.WebRole.dll

@@ -4,6 +4,7 @@
     <EntitySetMapping Name="Employees">
       <EntityTypeMapping TypeName="PersonnelModel.Employee">
         <MappingFragment StoreEntitySet="Employee">
+          <ScalarProperty Name="CreatedOn" ColumnName="CreatedOn" />
           <ScalarProperty Name="LastName" ColumnName="LastName" />
           <ScalarProperty Name="FirstName" ColumnName="FirstName" />
           <ScalarProperty Name="EmployeeCode" ColumnName="EmployeeCode" />

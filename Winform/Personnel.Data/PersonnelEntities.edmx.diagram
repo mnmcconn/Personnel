@@ -6,7 +6,7 @@
     <edmx:Diagrams>
       <Diagram DiagramId="91ce9e336b834f6d8611dea2453ba0b7" Name="Diagram1">
         <EntityTypeShape EntityType="PersonnelModel.Employee" Width="1.5" PointX="0.875" PointY="1" />
-        <EntityTypeShape EntityType="PersonnelModel.Role" Width="1.5" PointX="3" PointY="1.25" />
+        <EntityTypeShape EntityType="PersonnelModel.Role" Width="1.5" PointX="3.25" PointY="1.25" />
         <AssociationConnector Association="PersonnelModel.EmployeeRole" />
       </Diagram>
     </edmx:Diagrams>

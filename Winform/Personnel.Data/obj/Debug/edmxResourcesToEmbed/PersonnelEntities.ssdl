@@ -9,6 +9,7 @@
     <Property Name="EmployeeCode" Type="varchar" MaxLength="50" />
     <Property Name="FirstName" Type="varchar" MaxLength="50" />
     <Property Name="LastName" Type="varchar" MaxLength="50" />
+    <Property Name="CreatedOn" Type="datetime" />
   </EntityType>
   <EntityType Name="EmployeeRole">
     <Key>

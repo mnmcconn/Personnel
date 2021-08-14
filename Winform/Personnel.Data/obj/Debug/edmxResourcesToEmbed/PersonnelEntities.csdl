@@ -18,6 +18,7 @@
     <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
     <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
     <NavigationProperty Name="Roles" Relationship="PersonnelModel.EmployeeRole" FromRole="Employee" ToRole="Role" />
+    <Property Name="CreatedOn" Type="DateTime" Precision="3" />
   </EntityType>
   <EntityType Name="Role">
     <Key>

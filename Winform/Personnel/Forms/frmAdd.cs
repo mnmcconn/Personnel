@@ -52,7 +52,8 @@ namespace Personnel
                         ManagerID = _managerID,
                         EmployeeCode = txtEmployeeID.Text,
                         LastName = txtLastName.Text,
-                        FirstName = txtFirstName.Text
+                        FirstName = txtFirstName.Text,
+                        CreatedOn = DateTime.UtcNow
                     };
 
                     // Add selected roles

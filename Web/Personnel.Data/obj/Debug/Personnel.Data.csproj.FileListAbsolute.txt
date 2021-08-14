@@ -1,0 +1,12 @@
+C:\Users\Mitchel\Documents\GitHub\Personnel\Web\Personnel.Data\bin\Debug\Personnel.Data.dll.config
+C:\Users\Mitchel\Documents\GitHub\Personnel\Web\Personnel.Data\bin\Debug\Personnel.Data.dll
+C:\Users\Mitchel\Documents\GitHub\Personnel\Web\Personnel.Data\bin\Debug\Personnel.Data.pdb
+C:\Users\Mitchel\Documents\GitHub\Personnel\Web\Personnel.Data\bin\Debug\EntityFramework.dll
+C:\Users\Mitchel\Documents\GitHub\Personnel\Web\Personnel.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mitchel\Documents\GitHub\Personnel\Web\Personnel.Data\bin\Debug\EntityFramework.xml
+C:\Users\Mitchel\Documents\GitHub\Personnel\Web\Personnel.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mitchel\Documents\GitHub\Personnel\Web\Personnel.Data\obj\Debug\Personnel.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mitchel\Documents\GitHub\Personnel\Web\Personnel.Data\obj\Debug\Personnel.Data.csproj.CopyComplete
+C:\Users\Mitchel\Documents\GitHub\Personnel\Web\Personnel.Data\obj\Debug\Personnel.Data.dll
+C:\Users\Mitchel\Documents\GitHub\Personnel\Web\Personnel.Data\obj\Debug\Personnel.Data.pdb
+C:\Users\Mitchel\Documents\GitHub\Personnel\Web\Personnel.Data\obj\Debug\Personnel.Data.csprojAssemblyReference.cache

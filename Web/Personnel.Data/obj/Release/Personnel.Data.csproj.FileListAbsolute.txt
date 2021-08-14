@@ -1,0 +1,12 @@
+C:\Users\Mitchel\Documents\GitHub\Personnel\Web\Personnel.Data\bin\Release\Personnel.Data.dll.config
+C:\Users\Mitchel\Documents\GitHub\Personnel\Web\Personnel.Data\bin\Release\Personnel.Data.dll
+C:\Users\Mitchel\Documents\GitHub\Personnel\Web\Personnel.Data\bin\Release\Personnel.Data.pdb
+C:\Users\Mitchel\Documents\GitHub\Personnel\Web\Personnel.Data\bin\Release\EntityFramework.dll
+C:\Users\Mitchel\Documents\GitHub\Personnel\Web\Personnel.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Mitchel\Documents\GitHub\Personnel\Web\Personnel.Data\bin\Release\EntityFramework.xml
+C:\Users\Mitchel\Documents\GitHub\Personnel\Web\Personnel.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Mitchel\Documents\GitHub\Personnel\Web\Personnel.Data\obj\Release\Personnel.Data.csprojAssemblyReference.cache
+C:\Users\Mitchel\Documents\GitHub\Personnel\Web\Personnel.Data\obj\Release\Personnel.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mitchel\Documents\GitHub\Personnel\Web\Personnel.Data\obj\Release\Personnel.Data.csproj.CopyComplete
+C:\Users\Mitchel\Documents\GitHub\Personnel\Web\Personnel.Data\obj\Release\Personnel.Data.dll
+C:\Users\Mitchel\Documents\GitHub\Personnel\Web\Personnel.Data\obj\Release\Personnel.Data.pdb
