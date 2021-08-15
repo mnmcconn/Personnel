@@ -1,6 +1,6 @@
 # Personnel
 Personnel Projects
 
-While only one type (windows or web) is required, both have been created.   Compressed files of all source code is available in the zip folder.
+While only one type (windows or web) is required, both have been created.   
 
 Also, the web version has been deployed here:  http://www.justiceit.com
