@@ -1,7 +1,6 @@
 //-----------------------------------
 import axios from 'axios'
-//var apiRoot = 'http://localhost/Personnel.Web/api/';
-//var apiRoot = 'http://www.justiceit.com/api/';
+
 var apiRoot = 'api/';
 
 export default {   

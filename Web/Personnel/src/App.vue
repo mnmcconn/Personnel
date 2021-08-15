@@ -5,7 +5,6 @@
 </template>
 
 <script>
-    import repo from "@/utils/repo";
 
     export default {
         name: 'app',

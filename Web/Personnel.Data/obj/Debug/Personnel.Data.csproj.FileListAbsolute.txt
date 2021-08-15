@@ -9,4 +9,3 @@ C:\Users\Mitchel\Documents\GitHub\Personnel\Web\Personnel.Data\obj\Debug\Personn
 C:\Users\Mitchel\Documents\GitHub\Personnel\Web\Personnel.Data\obj\Debug\Personnel.Data.csproj.CopyComplete
 C:\Users\Mitchel\Documents\GitHub\Personnel\Web\Personnel.Data\obj\Debug\Personnel.Data.dll
 C:\Users\Mitchel\Documents\GitHub\Personnel\Web\Personnel.Data\obj\Debug\Personnel.Data.pdb
-C:\Users\Mitchel\Documents\GitHub\Personnel\Web\Personnel.Data\obj\Debug\Personnel.Data.csprojAssemblyReference.cache

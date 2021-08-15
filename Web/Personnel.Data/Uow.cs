@@ -13,7 +13,7 @@ namespace Personnel.Data
 
         public Uow(DataContext DB)
         {
-            //--------------------
+
             if (db == null)
                 db = DB;
        
